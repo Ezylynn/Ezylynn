@@ -1,6 +1,6 @@
-- ✨ Hellooo, I’m Binh or VB (V is my middle name). I'm currently studying Computing, majoring in CyberSecurity, at Curtin!
+- ✨ Hellooo, I’m Binh or VB (V is my middle name). I'm currently studying my Bachelor of Computing, majoring in CyberSecurity, at Curtin University!
 - 🌐 My main interest is Web Development, AI and obviously...CyberSecurity
-- 🌱 I’m currently learning Java, C and how to exit out of Vim (its a joke)
+- 🌱 I’m currently learning Java, C and how to exit out of Vim (thats a joke)
 - Language I'm fairly confident at: Python, JS/ReactJS and Assembly 🥸
 - 🔥 Aspiring to become a Pentester or SOC Analyst
 
