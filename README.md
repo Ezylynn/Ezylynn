@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Ezylynn
-- 👀 I’m interested in ...Bees
-- 🌱 I’m currently learning ...Python and Java
-- 💞️ I’m looking to collaborate on ...No
-- 📫 How to reach me...You can't unless you got my IP address
+- ✨ Hellooo, I’m Binh or VB (V is my middle name). I'm currently studying Computing, majoring in CyberSecurity, at Curtin!
+- 🌐 My main interest is Web Development, AI and obviously...CyberSecurity
+- 🌱 I’m currently learning Java, C and how to exit out of Vim (its a joke)
+- Language I'm fairly confident at: Python, JS/ReactJS and Assembly 🥸
+- 🔥 Aspiring to become a Pentester or SOC Analyst
+
+- 📨 Feel to reach out to me through my personal email: binhv2007@gmail.com
 
 <!---
 Ezylynn/Ezylynn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
